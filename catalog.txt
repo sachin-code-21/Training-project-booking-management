@@ -1,0 +1,5 @@
+P1,Samsung galaxy A7,CPU: Octa-Core 1.5 GHz Display: SuperAMOLED 1920 x 1080 (FHD) Resolution: CMOS 13.0 MP,35000,0009
+P2,Samsung galaxy s6 edge,CPU Type: Octa-Core Technology(Main Display): Dual Edge Super AMOLED Resolution(Main Display): 2560 x 1440 (Quad HD),40000,0023
+T1,Sony Bravia KLV-24P422B 59.8 cm (24 inches),61 centimeters WXGA LED 1366 x 768 Connectivity - Input: 2*HDMI 1*USBRefresh Rate: 200 hertz,17000,0003
+T2,Sony Bravia KLV-24P422B 59.8 cm (24 inches),61 centimeters WXGA LED 1366 x 768 Connectivity - Input: 2*HDMI 1*USBRefresh Rate: 200 hertz,17000,0001
+Q1,Lumia 520,CPU: Dual-core 1 GHz Resolution: 480 x 800 pixels (~233 ppi pixel density),5990,0015
